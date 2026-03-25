@@ -220,4 +220,4 @@ tech-accessory-store/
 * Designed for academic purposes to demonstrate OOP mastery and system design.
 * Emphasis on clean code, modularity, and user interaction handling.
 
-The **Tech Accessory Store CLI Application** showcases a complete, real-world simulation of an e-commerce system while emphasizing strong OOP design and reliable error handling. It serves as a solid foundation for transitioning into GUI-based or web-based systems in the future.
+The **Tech Accessory Store CLI Application** showcases a complete, real-world simulation of an e-commerce system while emphasizing strong OOP design and reliable error handling.
